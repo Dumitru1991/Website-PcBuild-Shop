@@ -13,7 +13,7 @@
       "fields": {
         "title": "Intel Core i5-9400F 4.1GHz, 8GB, SSD 240GB, NVIDIA GeForce GTX 1650 4GB",
         "price": 2999,
-        "image": { "fields": { "file": { "url": "./imageS/ieftin2.webp" } } }
+        "image": { "fields": { "file": { "url": "./images/ieftin2.webp" } } }
       }
     },
     {
@@ -77,7 +77,7 @@
       "fields": {
         "title": "Intel Core i5-9600KF 4.6GHz, 16GB, SSD 240GB, NVIDIA GeForce GTX 1660 Super 6GB",
         "price": 4799,
-        "image": { "fields": { "file": { "url": "./imageS/2.webp" } } }
+        "image": { "fields": { "file": { "url": "./images/2.webp" } } }
       }
     },
     {
