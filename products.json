@@ -1,0 +1,198 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "AMD Ryzen 5-3600 4.2GHz, 16GB, SSD 240GB, NVIDIA GeForce GTX 1650 4GB",
+        "price": 3099,
+        "image": { "fields": { "file": { "url": "./images/ieftin1.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Intel Core i5-9400F 4.1GHz, 8GB, SSD 240GB, NVIDIA GeForce GTX 1650 4GB",
+        "price": 2999,
+        "image": { "fields": { "file": { "url": "./imageS/ieftin2.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "AMD Ryzen 5 2600 3.9GHz, 8GB DDR4, 1TB, AMD Radeon RX 580 4GB",
+        "price": 2799,
+        "image": { "fields": { "file": { "url": "./images/ieftin3.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Intel Core i5-9400F 4.1GHz, 16GB, SSD 240GB, NVIDIA GeForce GTX 1650 4GB",
+        "price": 3299,
+        "image": { "fields": { "file": { "url": "./images/ieftin4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "AMD Ryzen 5-3600X 4.4GHz, 16GB, SSD 120GB, NVIDIA GeForce GTX 1070 8GB",
+        "price": 4299,
+        "image": { "fields": { "file": { "url": "./images/ieftin5.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Intel Core i5-9400F 4.1GHz, 16GB, SSD 240GB, NVIDIA GeForce GTX 1660 6GB",
+        "price": 4599,
+        "image": { "fields": { "file": { "url": "./images/ieftin6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "AMD Ryzen 7 3700X 4.4GHz, 16GB, SSD 512GB, NVIDIA GeForce GTX 1660 Ti 6GB",
+        "price": 5199,
+        "image": { "fields": { "file": { "url": "./images/ieftin7.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Intel Core i7-8700 4.6GHz, 8GB, 1TB, NVIDIA GeForce GTX 1060 3GB",
+        "price": 5399,
+        "image": { "fields": { "file": { "url": "./images/ieftin8.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "INTEL Coffee Lake-R i5-9900K 5.0GHz, 16GB DDR4, HDD 1TB, nVidia GTX1060 3GB GDDR5",
+        "price": 3899,
+        "image": { "fields": { "file": { "url": "./images/1.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Intel Core i5-9600KF 4.6GHz, 16GB, SSD 240GB, NVIDIA GeForce GTX 1660 Super 6GB",
+        "price": 4799,
+        "image": { "fields": { "file": { "url": "./imageS/2.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "Intel Core i5-10400F 4.3GHz, 8GB, SSD 512GB, NVIDIA GeForce GTX 1660 Super 6GB",
+        "price": 5199,
+        "image": { "fields": { "file": { "url": "./images/3.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "Intel Core i7-10700KF 5.1GHz, 16GB, SSD 512GB, NVIDIA GeForce RTX 2060 Super 8GB",
+        "price": 8199,
+        "image": { "fields": { "file": { "url": "./images/4.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "13" },
+      "fields": {
+        "title": "Intel Core i7-10700KF 5.1GHz, 32GB, SSD 500GB, NVIDIA GeForce RTX 2060 6GB",
+        "price": 7299,
+        "image": { "fields": { "file": { "url": "./images/5.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "14" },
+      "fields": {
+        "title": "Intel Core i7-9700K 4.9GHz, 32GB, SD 1TB, NVIDIA GeForce RTX 2070 Super 8GB",
+        "price": 9299,
+        "image": { "fields": { "file": { "url": "./images/6.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "15" },
+      "fields": {
+        "title": "Intel Core i7-10700K 5.1GHz, 16GB, SSD 512GB, NVIDIA GeForce RTX 2060 Super 8GB",
+        "price": 8599,
+        "image": { "fields": { "file": { "url": "./images/7.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "16" },
+      "fields": {
+        "title": "i9-9900KF 5GHz, 32GB, SSD 500GB, NVIDIA GeForce RTX 2070 SUPER 8GB",
+        "price": 11199,
+        "image": { "fields": { "file": { "url": "./images/8.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "17" },
+      "fields": {
+        "title": "Intel Core i7-9700K 4.9GHz, 32GB, SSD 480GB, NVIDIA GeForce RTX 2060 SUPER 8GB",
+        "price": 7899,
+        "image": { "fields": { "file": { "url": "./images/9.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "18" },
+      "fields": {
+        "title": "Intel Core i7-9700K 4.9GHz, 32GB, SSD 512GB, NVIDIA GeForce RTX 2060 SUPER 8GB",
+        "price": 8999,
+        "image": { "fields": { "file": { "url": "./images/10.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "19" },
+      "fields": {
+        "title": "AMD Ryzen 7-3800X 4.5GHz, 16GB, 1TB, NVIDIA GeForce RTX 2060 Super 8GB",
+        "price": 8599,
+        "image": { "fields": { "file": { "url": "./images/11.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "20" },
+      "fields": {
+        "title": "ntel Core i7-9700K 4.9GHz, 8GB, SSD 256GB, NVIDIA GeForce RTX 2060 6GB",
+        "price": 9199,
+        "image": { "fields": { "file": { "url": "./images/12.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "21" },
+      "fields": {
+        "title": "Intel Core i7-10700K 5.1GHz, 16GB, SSD 512GB, NVIDIA GeForce RTX 2060 Super 8GB",
+        "price": 10899,
+        "image": { "fields": { "file": { "url": "./images/13.webp" } } }
+      }
+    },
+    
+    {
+      "sys": { "id": "22" },
+      "fields": {
+        "title": "Intel Core i7-9700K 3.9GHz, 16GB, 512GB, NVIDIA GeForce RTX 2080OC 8GB",
+        "price": 18999,
+        "image": { "fields": { "file": { "url": "./images/14.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "23" },
+      "fields": {
+        "title": "Intel Core i9-10900KF 5.3GHz, 32GB, SSD 1TB, NVIDIA GeForce RTX 2080 Ti 11GB",
+        "price": 15999,
+        "image": { "fields": { "file": { "url": "./images/15.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "24" },
+      "fields": {
+        "title": "ntel Core i9-10900KF 5.3GHz, 32GB, SSD 500GB, NVIDIA GeForce RTX 2080 Super 8GB",
+        "price": 13499,
+        "image": { "fields": { "file": { "url": "./images/16.webp" } } }
+      }
+    }
+    
+  ]
+}
